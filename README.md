@@ -2,12 +2,6 @@
 
 <!--
 **rustom-ichhaporia/rustom-ichhaporia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Diverse experience with Python, C#, R, SQL, research, entrepreneurship, and more.
-Presented research overseas on complex networks, neurobiology, finance, and particle physics data analysis.
-Love to compose and play music on the side.
-For more: https://rustom-ichhaporia.github.io/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,3 +11,12 @@ For more: https://rustom-ichhaporia.github.io/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I study CS and statistics at the University of Illinois at Urbana-Champaign. I'm an internationally published James Scholar seeking opportunities in ML/AI to jumpstart my college career. 
+
+I have diverse experience with Python, C#, R, SQL, research, entrepreneurship, and more.
+
+I've presented research overseas on complex networks, neurobiology, finance, and particle physics data analysis, some of which you can find on this page.
+
+I love to compose and play music on the side.
+
+For more: https://rustom-ichhaporia.github.io/
