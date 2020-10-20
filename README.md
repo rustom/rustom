@@ -19,6 +19,6 @@ On the side, I love to play and compose music. Feel free to message me on Linked
 
 For more: https://rustom-ichhaporia.github.io/
 
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/rustom-ichhaporia/)
+
 ✉️ <rustom.ichhaporia@gmail.com>
