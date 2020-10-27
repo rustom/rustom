@@ -17,7 +17,7 @@ I have diverse experience with Python, C#, R, SQL, research, entrepreneurship, a
 
 On the side, I love to play and compose music. Feel free to message me on LinkedIn or send me an email!
 
-For more: https://rustom-ichhaporia.github.io/
+<!--For more: https://rustom-ichhaporia.github.io/-->
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rustom-ichhaporia/)
 
