@@ -11,13 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I study CS and statistics at the University of Illinois at Urbana-Champaign. I'm an internationally published James Scholar seeking opportunities in ML/AI to jumpstart my college career. 
+Hi, I'm Rustom Ichhaporia! I'm an internationally published Illinois James Scholar seeking opportunities in ML/AI that drive actionable discovery. Currently, I'm a machine learning engineer intern at Twitter. 
 
-I have diverse experience with Python, C#, R, SQL, research, entrepreneurship, and more. I've also presented research overseas on complex networks, neurobiology, finance, and particle physics data analysis, some of which you can find on this page.
+I'm the creator of industry-level data-driven software that has driven multi-million dollar corporate projects and have diverse experience with Python, C++, Java, R, SQL, research (4 publications), entrepreneurship, and open source. In my free time, I like to play and compose music! 
 
-On the side, I love to play and compose music. Feel free to message me on LinkedIn or send me an email!
-
-<!--For more: https://rustom-ichhaporia.github.io/-->
+Please reach out to me about new roles, my experiences, or anything else.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rustom-ichhaporia/)
 
