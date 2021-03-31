@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Rustom Ichhaporia! I'm an internationally published Illinois James Scholar seeking opportunities in ML/AI that drive actionable discovery. Currently, I'm a machine learning engineer intern at Twitter. 
+Hi, I'm Rustom Ichhaporia! I'm an internationally published Illinois James Scholar seeking opportunities in ML/AI that drive actionable discovery. Currently, I'm a machine learning intern at Twitter. 
 
 I'm the creator of industry-level data-driven software that has driven multi-million dollar corporate projects and have diverse experience with Python, C++, Java, R, SQL, research (4 publications), entrepreneurship, and open source. In my free time, I like to play + compose music and watch comedy! 
 
