@@ -1,10 +1,10 @@
 ## Hey there!
 
-Hi, I'm Rustom Ichhaporia! I'm an internationally published Illinois James Scholar seeking opportunities in ML/AI that drive actionable discovery. Currently, I'm a machine learning intern at Twitter. 
+Hi, I'm Rustom Ichhaporia! I'm an internationally published Illinois James Scholar seeking opportunities in ML/AI that drive actionable discovery. Currently, I'm a machine learning intern at [Twitter](https://twitter.com). 
 
 I'm the creator of industry-level data-driven software that has driven multi-million dollar corporate projects and have diverse experience with Python, C++, Java, R, SQL, research (4 publications), entrepreneurship, and open source. In my free time, I like to play + compose music and watch comedy! 
 
-Please reach out to me about new roles, my experiences, or anything else!
+Please [reach out to me](mailto:rustom@rustom.dev?subject=A%20personalized,%20funny%20message%20for%20Rustom%20Ichhaporia) about new roles, my experiences, or anything else!
 
 <!--
 See this for how I made the custom shields using the SVG hosted on my website: 
