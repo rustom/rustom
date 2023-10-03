@@ -1,11 +1,10 @@
 ## Hey there!
 
-Hi, I'm Rustom Ichhaporia! I'm an internationally published Illinois James Scholar seeking opportunities in ML/AI and software that drive actionable discovery. Currently, I'm a quant intern at [IMC Trading](https://imc.com), one of the world's leading market-making firms. 
+Hi, I'm Rustom Ichhaporia! I'm a graduating master's student at the University of Illinois at Urbana-Champaign seeking opportunities in tech that drive actionable discovery. In my most recent role, I worked as a software engineer intern at Snowflake.
 
-I'm the creator of industry-level data-driven software that has driven multi-million dollar corporate projects and have diverse experience with Python, C++, Java, R, SQL, research (4 publications), entrepreneurship, and open source. In my free time, I like to play + compose music and watch comedy! 
+I'm the creator of industry-ready data-driven software that has driven multi-million dollar corporate projects and have diverse experience with Python, Go, C++, Java, R, SQL, research (4 publications), entrepreneurship, and open source. In my free time, I like to play + compose music and watch comedy! 
 
-Please [reach out to me](mailto:rustom@rustom.dev?subject=A%20personalized,%20funny%20message%20for%20Rustom%20Ichhaporia) about new roles, my experiences, or anything else!
-
+I'm searching for new roles in software engineering and quantitative trading for 2024. If you think I could be a good fit for your team, please reach out! 
 Find more here: https://rustom.dev
 
 <!--
