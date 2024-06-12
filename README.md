@@ -1,11 +1,16 @@
 ## Hey there!
 
-Hi, I'm Rustom Ichhaporia! I'm a graduating master's student at the University of Illinois at Urbana-Champaign seeking opportunities in tech that drive actionable discovery. In my most recent role, I worked as a software engineer intern at Snowflake.
+Hi, I'm Rustom Ichhaporia!
 
-I'm the creator of industry-ready data-driven software that has driven multi-million dollar corporate projects and have diverse experience with Python, Go, C++, Java, R, SQL, research (4 publications), entrepreneurship, and open source. In my free time, I like to play + compose music and watch comedy! 
+Welcome to my home on the web.
 
-I'm searching for new roles in software engineering and quantitative trading for 2024. If you think I could be a good fit for your team, please reach out! 
-Find more here: https://rustom.dev
+Currently, I'm working on the Developer Productivity Engineering team at [Snowflake](https://snowflake.com), where I develop tools to improve our internal developer experience. Previously, I've spent time at [IMC Trading](https://imc.com/), [Twitter](https://twitter.com), and [IBM](https://ibm.com), as well as a host of other companies and research labs.
+
+You can find some of my projects on GitHub and my research on Google Scholar.
+
+You can also view my [resume](https://rustom.dev/Rustom_Ichhaporia_Resume.pdf) and connect with me on LinkedIn.
+
+I'm always open to new opportunities in software engineering and data science! I'd love for you to reach out to me at contact@rustom.dev!
 
 <!--
 See this for how I made the custom shields using the SVG hosted on my website: 
