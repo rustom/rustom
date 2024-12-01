@@ -4,11 +4,11 @@ Hi, I'm Rustom Ichhaporia!
 
 Welcome to my home on the web.
 
-Currently, I'm working on the Developer Productivity Engineering team at [Snowflake](https://snowflake.com), where I develop tools to improve our internal developer experience. Previously, I've spent time at [IMC Trading](https://imc.com/), [Twitter](https://twitter.com), and [IBM](https://ibm.com), as well as a host of other companies and research labs.
+Currently, I'm building [Kalshi](https://kalshi.com), the first legal event contract marketplace in the US. Previously, I've spent time at IMC Trading, Snowflake, Twitter, as well as a host of other companies and research labs.
 
 You can find some of my projects on GitHub and my research on Google Scholar.
 
-You can also view my [resume](https://rustom.dev/Rustom_Ichhaporia_Resume.pdf) and connect with me on LinkedIn.
+You can also view my [resume](https://rustom.dev/Rustom_Ichhaporia_Resume.pdf) and connect with me on [LinkedIn](https://linkedin.com/in/rustom-ichhaporia).
 
 I'm always open to new opportunities in software engineering and data science! I'd love for you to reach out to me at contact@rustom.dev!
 
