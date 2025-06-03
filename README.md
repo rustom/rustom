@@ -2,8 +2,6 @@
 
 Hi, I'm Rustom Ichhaporia!
 
-Welcome to my home on the web.
-
 Currently, I'm building [Kalshi](https://kalshi.com), the first legal event contract marketplace in the US. Previously, I've spent time at IMC Trading, Snowflake, Twitter, as well as a host of other companies and research labs.
 
 You can find some of my projects on GitHub and my research on Google Scholar.
